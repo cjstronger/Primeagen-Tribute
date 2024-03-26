@@ -1,0 +1,62 @@
+body{
+  min-width: 500px;
+  margin: 0 auto;
+  font-family: netflix-sans, tahoma;
+  background-color: #f1edfd;
+  padding: 15px;
+}
+header{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#main{
+  margin: 0 auto;
+  height: 180vh;
+  background-color: #fabdbd;
+  border-radius: 10px
+}
+.bold{
+  font-style: bold;
+  font-weight: 600
+}
+#title{
+  text-align: center
+}
+#motto{
+  text-align: center;
+  font-size: 16px
+}
+#img-div{
+  background-color: white;
+  aspect-ratio: 2 / 1;
+  max-height: 550px;
+  width: 95%; 
+  margin: 0 auto
+}
+#image{
+  height: auto;
+  max-width: 100%;
+  max-height: 500px;
+  width: 90%;
+  display: block;
+  padding: 20px;
+  margin: 0 auto;
+}
+#img-caption{
+  text-align: center;
+  padding-bottom: 15px;
+  margin: 0px 30px
+}
+#timeline{
+  text-align: center;
+  font-size: 20px
+}
+.list{
+  max-width: 405px;
+  margin: 0 auto;
+}
+.list-items{
+  padding: 10px;
+  line-height: 25px;
+}
