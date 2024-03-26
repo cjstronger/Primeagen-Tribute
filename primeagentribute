@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <link rel='stylesheet' href='styles.css'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+    <meta charset='utf-8'/>
+    <title>Michael B. Paulson Tribute</title>
+  </head>
+  <body>
+    <main id='main'>
+      <header>
+        <h1 id='title' class='header bold'>
+        Michael B. Paulson
+        </h1>
+        <p id='motto' class='header'>The Prime Time</p>
+      </header>
+      <div id='img-div'>
+          <img id='image' src='https://media.licdn.com/dms/image/sync/D5627AQHzgHFhNcrA7A/articleshare-shrink_800/0/1710317908368?e=2147483647&v=beta&t=gO6sAFtjV4IlorCrodTwtLaH-tHlpqFKqbRv_arQPnA'>
+          <figcaption id='img-caption'>First from the left and the right, Mr. Paulson <i>ie. thePrimeagen,</i> teaching a front-end masters class for TypeScript developers in a hoodie..</figcaption>
+        </div>
+      <h2 id='timeline'>Here's a short timeline of Mr. Paulson's life:</h2>
+      <ul class='list'>
+        <li class='list-items'><span class='bold'>1986</span> - Born in Montana, USA</li>
+        <li class='list-items'><span class='bold'>2003</span> - Graduated high school</li>
+        <li class='list-items'><span class='bold'>2010</span> - Graduated from Montana State University with a BS in Computer Sciences</li>
+        <li class='list-items'><span class='bold'>2012</span> - Created a startup (theStartup) which failed</li>
+        <li class='list-items'><span class='bold'>2015</span> - found NeoVim</li>
+        <li class='list-items'><span class='bold'>2018</span> - Established YouTube channel to talk about NeoVim</li>
+        <li class='list-items'><span class='bold'>2024</span> - Still talks about NeoVim but has spread to Twitch.</li>
+        <p id='quote'><i>"please don't take me seriously, i don't want to get cancelled</br> -- thePrimeagen</i>
+        <h3 id='tribute-info'>If you have time on your hands, feel no need to checkout his <a id='tribute-link' target='_blank' href='https://t.co/qvibjmtYuU'>Twitch</a>.</h3>
+    </main>
+  </body>
+  
